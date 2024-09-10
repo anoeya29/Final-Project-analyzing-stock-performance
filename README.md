@@ -1,1 +1,1 @@
-# Final-Project-analyzing-stock-performance
+In this repository the final project for the 5th course of the IBM Data Analyst Professional Certificate can be found. The main goal was to analyze stock data and create a visual dashboard using Python.
